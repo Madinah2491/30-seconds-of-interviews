@@ -1,7 +1,7 @@
 ### Your question goes here. Keep it straightforward.
 
 <!-- If you need to display some code, keep it short. It goes here: -->
-
+Example: Why do you want to get into software development?
 ```html
 ```
 
@@ -14,7 +14,7 @@
 #### Answer
 
 <!-- Your answer goes here. -->
-
+Example: With the world that we live in with technology simplifying everything software developers automate everything. The global impact that every software developer has is astronomical.
 <!-- If you need to display some code, keep it short. It goes here: -->
 
 ```html
